@@ -1,0 +1,5 @@
+Excited to share a project that I worked on during my internship with Bharat Intern
+
+Project Name: Weather Website Created a Website using HTML, CSS and JS that fetches weather data from an API and displays the current weather conditions.
+
+You can also check this full project on GitHub: https://lnkd.in/esmU45si
